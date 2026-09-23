@@ -1,0 +1,22 @@
+{
+  "train_rows": 6000,
+  "test_rows": 1000,
+  "accuracy": 0.904,
+  "baseline_accuracy": 0.91,
+  "precision": 0.42857142857142855,
+  "recall": 0.2,
+  "f1": 0.27272727272727276,
+  "roc_auc": 0.6712454212454219,
+  "pr_auc": 0.2826586627824984,
+  "tn": 886,
+  "fp": 24,
+  "fn": 72,
+  "tp": 18,
+  "selected_model": "balanced",
+  "validation_f1": {
+    "unweighted": 0.05063291139240506,
+    "balanced": 0.13793103448275862
+  },
+  "stream_unique_count": 1000,
+  "duplicates_removed": 10
+}
